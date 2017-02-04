@@ -14,7 +14,7 @@
    viewBox="0 0 473.68419 473.68419"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.0 unknown"
    sodipodi:docname="background.svg">
   <defs
      id="defs4" />
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1783015"
-     inkscape:cx="244.23449"
-     inkscape:cy="238.58896"
+     inkscape:zoom="0.83318498"
+     inkscape:cx="347.77467"
+     inkscape:cy="219.22445"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -66,29 +66,40 @@
        x="118.1579"
        y="374.80582"
        ry="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:19.29197502px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="337.80396"
-       y="390.57773"
-       id="text4138"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4140"
-         x="337.80396"
-         y="390.57773"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;fill-opacity:1">Bot</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:19.29197502px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="337.41302"
-       y="846.30164"
-       id="text4138-3"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4140-6"
-         x="337.41302"
-         y="846.30164"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;fill-opacity:1">You</tspan></text>
+    <g
+       aria-label="Bot"
+       transform="scale(-1)"
+       style="font-style:normal;font-weight:normal;font-size:19.29197502px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4138">
+      <path
+         d="m -370.46278,-390.76614 h 4.28606 q 2.92959,0 4.24838,0.83837 1.3282,0.82895 1.3282,2.647 0,1.234 -0.58403,2.02528 -0.57461,0.79127 -1.53545,0.95141 v 0.0942 q 1.30937,0.29201 1.88399,1.09271 0.58403,0.80069 0.58403,2.1289 0,1.88398 -1.36589,2.93901 -1.35646,1.05503 -3.6926,1.05503 h -5.15269 z m 2.92017,5.45413 h 1.69558 q 1.18691,0 1.71443,-0.36738 0.53693,-0.36738 0.53693,-1.21517 0,-0.79127 -0.58403,-1.13039 -0.57462,-0.34853 -1.82746,-0.34853 h -1.53545 z m 0,2.3173 v 3.58898 h 1.90282 q 1.20575,0 1.78037,-0.46157 0.57461,-0.46158 0.57461,-1.41299 0,-1.71442 -2.44918,-1.71442 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;fill-opacity:1"
+         id="path1383" />
+      <path
+         d="m -355.43803,-382.2788 q 0,1.5637 0.50868,2.3644 0.51809,0.80069 1.67674,0.80069 1.14923,0 1.64849,-0.79127 0.50867,-0.8007 0.50867,-2.37382 0,-1.56371 -0.50867,-2.34556 -0.50868,-0.78185 -1.66733,-0.78185 -1.14923,0 -1.6579,0.78185 -0.50868,0.77243 -0.50868,2.34556 z m 7.28159,0 q 0,2.57163 -1.35646,4.0223 -1.35647,1.45067 -3.77739,1.45067 -1.5166,0 -2.67525,-0.6594 -1.15865,-0.66881 -1.78036,-1.91224 -0.62172,-1.24343 -0.62172,-2.90133 0,-2.58106 1.34705,-4.01288 1.34705,-1.43183 3.7868,-1.43183 1.51661,0 2.67526,0.65939 1.15865,0.6594 1.78036,1.89341 0.62171,1.234 0.62171,2.89191 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;fill-opacity:1"
+         id="path1385" />
+      <path
+         d="m -341.34584,-379.09487 q 0.75359,0 1.80862,-0.3297 v 2.13832 q -1.07387,0.48042 -2.63757,0.48042 -1.72385,0 -2.51512,-0.86664 -0.78185,-0.87605 -0.78185,-2.61873 v -5.07733 h -1.37531 v -1.21517 l 1.58255,-0.96083 0.82895,-2.2231 h 1.83688 v 2.24194 h 2.94843 v 2.15716 h -2.94843 v 5.07733 q 0,0.61229 0.33912,0.90431 0.34854,0.29202 0.91373,0.29202 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;fill-opacity:1"
+         id="path1387" />
+    </g>
+    <g
+       aria-label="You"
+       style="font-style:normal;font-weight:normal;font-size:19.29197502px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#030000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4138-3">
+      <path
+         d="m 343.43235,838.20051 2.87307,-5.67078 h 3.14625 l -4.56866,8.41198 v 5.35993 h -2.90133 v -5.26573 l -4.56866,-8.50618 h 3.16509 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#030000;fill-opacity:1"
+         id="path1390" />
+      <path
+         d="m 353.26673,841.01707 q 0,1.5637 0.50868,2.36439 0.51809,0.8007 1.67674,0.8007 1.14923,0 1.64849,-0.79128 0.50867,-0.80069 0.50867,-2.37381 0,-1.56371 -0.50867,-2.34556 -0.50868,-0.78185 -1.66733,-0.78185 -1.14923,0 -1.6579,0.78185 -0.50868,0.77243 -0.50868,2.34556 z m 7.28159,0 q 0,2.57163 -1.35646,4.0223 -1.35647,1.45066 -3.77739,1.45066 -1.5166,0 -2.67525,-0.65939 -1.15865,-0.66881 -1.78036,-1.91224 -0.62172,-1.24343 -0.62172,-2.90133 0,-2.58106 1.34705,-4.01289 1.34705,-1.43182 3.7868,-1.43182 1.51661,0 2.67526,0.65939 1.15865,0.6594 1.78036,1.8934 0.62171,1.23401 0.62171,2.89192 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#030000;fill-opacity:1"
+         id="path1392" />
+      <path
+         d="m 370.38271,846.30164 -0.38622,-1.34705 h -0.15072 q -0.46157,0.73475 -1.30936,1.13981 -0.8478,0.39563 -1.93108,0.39563 -1.85573,0 -2.79772,-0.98909 -0.94199,-0.99851 -0.94199,-2.86365 v -6.86711 h 2.87307 v 6.1512 q 0,1.13981 0.40506,1.71442 0.40506,0.5652 1.29053,0.5652 1.20575,0 1.74268,-0.8007 0.53694,-0.81011 0.53694,-2.67525 v -4.95487 h 2.87307 v 10.53146 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#030000;fill-opacity:1"
+         id="path1394" />
+    </g>
   </g>
 </svg>
