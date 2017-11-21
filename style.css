@@ -105,3 +105,20 @@ h1 {
 #controls {
   height: 120px;
 }
+
+#rsp table td a {
+  padding: 1px 5px;
+  background: rgba(128, 128, 128, 0.3);
+  border-radius: 2px;
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+#rsp table td a:hover,
+#rsp table td a:focus,
+#rsp table td a:active {
+  background: rgba(128, 128, 128, 0.5);
+  outline: none;
+  color: inherit;
+}
